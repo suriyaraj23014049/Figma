@@ -75,7 +75,7 @@ code for ss 4:
 ![Screenshot 2024-11-03 152807](https://github.com/user-attachments/assets/ed64e419-5539-4c71-ad50-b3845c0ffba0)
 ![Screenshot 2024-11-03 152816](https://github.com/user-attachments/assets/557322d5-5490-4eb8-83a5-bd76fb1c3053)
 ![Screenshot 2024-11-03 152824](https://github.com/user-attachments/assets/980fcc93-bdf4-41cc-bba4-4297eddc6524)
-![Screenshot 2024-11-03 152833](https://github.com/user-attachments/assets/222b3dd9-369c-4660-881e-3fd4a37ecb66)
+
 
 
 ## RESULT:
